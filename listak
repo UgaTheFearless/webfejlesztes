@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listakmagamtol</title>
+</head>
+<body>
+    
+<!--  3 ol szint, autók  -->
+    <div>
+        <ol>
+            <li>Dodge</li>
+                <ol>
+                    <li>Challenger</li>
+                        <ol>
+                            <li>V8</li>
+                            <li>V12</li>
+                        </ol>
+                </ol>
+            <li>Ferrari</li>
+                <ol>
+                    <li>F8</li>
+                        <ol>
+                            <li>V8</li>
+                            <li>V12</li>
+                        </ol>
+                </ol>    
+        </ol>
+    </div>
+
+<!--  3 ul szint, termékek  -->
+<div>
+        <ul>
+            <li>IT
+                <ul>
+                    <li>Tabletek
+                        <ul>
+                            <li>Lenovo M9</li>
+                            <li>Samsung S25</li>
+                        </ul>
+                    <li>Mobiltelefonok
+                        <ul>
+                            <li>Samsung S25</li>
+                            <li>iPhone 12</li>
+                        </ul>
+                </ul>    
+        </ul>
+    </div>
+</body>
+</html>
